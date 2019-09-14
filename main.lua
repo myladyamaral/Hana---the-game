@@ -1,5 +1,5 @@
 function love.load()
-
+	
 end
 
 
